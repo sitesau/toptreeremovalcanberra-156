@@ -1,0 +1,22 @@
+{
+  "wheel_id": 722,
+  "structure": "umbrella",
+  "slug": "toptreeremovalcanberra-156",
+  "project": "tree-removal-canberra-council-and-approvals-eab4b18e8cb2d9eecb2",
+  "parent_t1_ref": "toptreeremovalcanberra-013",
+  "node_role": "buffer",
+  "money_target": "toptreeremovalcanberra.com.au",
+  "primary_kw": "tree removal canberra council and approvals",
+  "intended_url": "https://aumedia.neocities.org/tree-removal-canberra-council-and-approvals-eab4b18e8cb2d9eecb2/",
+  "tier": "T2",
+  "writeback_nonce": "38dcc1718fb1f00b",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/tree-removal-canberra-013/",
+      "anchor": "the full guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
